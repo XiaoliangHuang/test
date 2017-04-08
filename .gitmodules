@@ -1,0 +1,3 @@
+[submodule "fexo"]
+	path = fexo
+	url = git://github.com/XiaoliangHuang/fexo.git
